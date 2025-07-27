@@ -51,14 +51,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Create a `.env.local` file in the root directory and add the following environment variables:
 
 ```bash
-NEXT_PUBLIC_BASE_URL=your_api_base_url_here
+NEXT_PUBLIC_BASE_URL=https://api.10minuteschool.com/discovery-service/api/v1/
 ```
 
 **Required Environment Variables:**
 
 | Variable Name | Description | Example Value |
 |---------------|-------------|---------------|
-| `NEXT_PUBLIC_BASE_URL` | Base URL for the API endpoints | `https://api.10minuteschool.com` |
+| `NEXT_PUBLIC_BASE_URL` | Base URL for the API endpoints | `https://api.10minuteschool.com/discovery-service/api/v1/` |
 
 ## Getting Started
 
